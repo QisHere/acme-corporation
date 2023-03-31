@@ -1,7 +1,7 @@
 ---
 menu:
     footer:
-        name: Privacy Policy
+        name: Privacy Policy    
         weight: 300
 ---
 
