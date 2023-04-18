@@ -1,0 +1,13 @@
+<footer>
+    {{with site.Menus.main}}
+    <nav>
+        <ur>
+            {{range .}}
+            <li>
+                <a href="{{.URL}}">{{.Name | humanize}}</a>
+            </li>
+            {{end}}
+        </ur>
+    </nav>
+    {{end}}
+</footer>

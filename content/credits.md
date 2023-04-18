@@ -1,3 +1,10 @@
+---
+menu:
+  footer:
+    name: Credits
+    weight: 500
+---
+
 Credits
 =======
 
